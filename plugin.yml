@@ -13,9 +13,13 @@ permissions:
     default: op
   deluxeveinminer.command.add.block:
     default: op
+  deluxeveinminer.command.add.whitelist:
+    default: op
   deluxeveinminer.command.add.world:
     default: op
   deluxeveinminer.command.remove.block:
+    default: op
+  deluxeveinminer.command.remove.whitelist:
     default: op
   deluxeveinminer.command.remove.world:
     default: op

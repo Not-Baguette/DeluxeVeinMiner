@@ -62,6 +62,8 @@
 ## ⚙️ Todo
 - [ ] Commands for whitelist management
 - [ ] config.yml backwards compatibility
+- [ ] Shift to stop veinmining temporarily
+- [ ] Disable veinmining with barehands
 
 ---
 

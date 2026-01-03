@@ -59,6 +59,12 @@
 
 ---
 
+## ⚙️ Todo
+- [ ] Commands for whitelist management
+- [ ] config.yml backwards compatibility
+
+---
+
 ## 📖 License
 
 Licensed under the [MIT License](https://github.com/FrostCheatMC/DeluxeVeinMiner/blob/master/LICENSE)
